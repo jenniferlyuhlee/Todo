@@ -1,0 +1,15 @@
+/* class for spacing between tasks */
+.space-between{
+    margin-bottom: 5px;
+}
+
+/*class for spacing between button and label*/
+.spacing{
+    margin-left: 10px;
+}
+
+/*class for strikethrough when task is done*/
+.done{
+    text-decoration: line-through;
+}
+
