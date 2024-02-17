@@ -8,8 +8,3 @@
     margin-left: 10px;
 }
 
-/*class for strikethrough when task is done*/
-.done{
-    text-decoration: line-through;
-}
-
